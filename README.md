@@ -24,28 +24,6 @@ The content contains several independent modules that cover different aspects of
 
 ----
 
-####Support SpringBoot application development lifecycle using Oracle Developer Cloud Service, Application Container Cloud Service and Oracle Enterprise Pack For Eclipse####
-
-+ [Create Oracle Developer Cloud Service project for SpringBoot application](springboot-sample/create.devcs.project.md)
-+ [Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](springboot-sample/devcs.accs.ci.md)
-+ [Using Eclipse IDE (Oracle Enterprise Pack for Eclipse) with Oracle Developer Cloud Service](oepe/setup.oepe.md)
-
-####Bind Frontend Application running on lightweight container in Oracle Appplication Container Cloud with backend resources running on Java Cloud Service####
-
-+ [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
-
-####Perform basic monitoring of application run inside Application Container Cloud thrugh diagnostic capabilities of Java Mission Control and Java Flight Recorder ####
-
-+ [Monitor and tune SpringBoot application deployed on Oracle Application Container Cloud Service](monitor-tune/README.md)
-
-####Integrate telemetry into continuous delivery and monitor an application using the Oracle Management Cloud####
-+ [Deploying APM Agent on Apache Tomcat based application and setting up Application Performance Monitoring](apm/README.md)
-
-####Run Lightweight Java container (Tomcat) in the  Oracle Application Container Cloud Service####
-
-+ [Deploy Apache Tomcat based application to Oracle Application Container Cloud](accs-tomcat/README.md)
-+ [Scale up/down Application Container Service using user interface and PaaS Service Manager (PSM) Command Line Interface (CLI) tool](accs-psm/README.md)
-
 #### Deploy Java EE application to Oracle Java Cloud Service####
 
 + [Create Database Cloud Service Instance using user interface](dbcs-create/README.md)
@@ -78,15 +56,6 @@ The content contains several independent modules that cover different aspects of
 + [Delete Application Cloud Container Service using PaaS Service Manager (PSM) Command Line Interface (CLI)](cleanup/cleanup-psm.md)
 
 ---
-
-####Customizing and personalizing the workshop content####
-
-+ [Customize and personalize the workshop materials](customize/README.md)
-
----
-
-## [Contributing](CONTRIBUTING.md)
-Pull Requests are currently not being accepted. See [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## [License](LICENSE.md)
 Copyright (c) 2014, 2016 Oracle and/or its affiliates
